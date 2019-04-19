@@ -5,6 +5,10 @@ import slide_one from '../../resources/images/slide_one.jpg';
 import slide_two from '../../resources/images/slide_two.jpg';
 import slide_three from '../../resources/images/slide_three.jpg';
 
+import four from '../../resources/images/4.jpg';
+import two from '../../resources/images/2.jpg';
+import three from '../../resources/images/3.jpg';
+
 const Carousel = () => {
 
     var settings = {
@@ -27,7 +31,7 @@ const Carousel = () => {
             <div 
             className="carrousel_image"
             style={{
-                background:`url(${slide_one})`,
+                background:`url(${four})`,
                 height: `${window.innerHeight}px`
             }}>
             </div>
@@ -36,7 +40,7 @@ const Carousel = () => {
         <div>
            <div className="carrousel_image"
             style={{
-                background:`url(${slide_two})`,
+                background:`url(${two})`,
                 height: `${window.innerHeight}px`
             }}></div>
         </div>
@@ -44,7 +48,7 @@ const Carousel = () => {
         <div>
             <div className="carrousel_image"
             style={{
-                background:`url(${slide_three})`,
+                background:`url(${three})`,
                 height: `${window.innerHeight}px`
             }}></div>
         </div>

@@ -89,7 +89,7 @@ footer .footer_copyright {
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 400px;
+    width: 500px;
     height: 160px;
     -webkit-transform: translate(-50%, -50%);  
     transform: translate(-50%, -50%);   
@@ -118,7 +118,7 @@ footer .footer_copyright {
 }
 
 .countdown_wrapper .countdown_top {
-    background: #ff4800;
+    background: hsl(0, 0%, 0%);
     font-size: 19px;
     padding: 10px;
     display: inline-block;
@@ -127,13 +127,13 @@ footer .footer_copyright {
 
 .countdown_wrapper .countdown_bottom {
     display: flex;
-    background: #d93d00;
+    background: #302f2e;
     padding: 10px 20px;
 }
 
 .countdown_wrapper .countdown_time {
     font-size: 70px;
-    border-right: 1px solid #F44336;
+    border-right: 1px solid rgb(0, 0, 0);
     margin-right: 14px;
     padding-right: 49px;
 }
