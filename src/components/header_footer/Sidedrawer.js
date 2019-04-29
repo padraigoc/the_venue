@@ -27,7 +27,7 @@ const Sidedrawer = (props) => {
         >
         <List component="nav">
         <ListItem button onClick={()=> scrollToElement('featured') }> Event starts in</ListItem>
-        <ListItem button onClick={()=> scrollToElement('venueinfo') }> Venue NFO</ListItem>
+        <ListItem button onClick={()=> scrollToElement('venueinfo') }> Venue Info</ListItem>
         <ListItem button onClick={()=> scrollToElement('highlights') }> Highlights</ListItem>
         <ListItem button onClick={()=> scrollToElement('pricing') }> Pricing</ListItem>
         <ListItem button onClick={()=> scrollToElement('location') }> Location</ListItem>
