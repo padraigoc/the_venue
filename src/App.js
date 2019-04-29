@@ -20,7 +20,7 @@ class App extends Component {
         <Featured />
         </Element>
 
-        <Element name="venuinfo">
+        <Element name="venueinfo">
         <VenueInfo />
         </Element>
 
