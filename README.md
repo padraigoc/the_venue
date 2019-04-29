@@ -1,6 +1,6 @@
 # The Venue
 
-[View live on surge](http://frightened-coast.surge.sh)
+[View live on surge](http://true-steel.surge.sh)
 
 A simple Front-End Project which displays details for a live event. It's a single-page, which was built using React, HTML, CSS and Javascript.
 
