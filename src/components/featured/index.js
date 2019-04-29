@@ -12,7 +12,7 @@ const Featured = () => {
             <Fade>
                 <div className="wrapper">
                   Lollapalooza  
-                  2019
+                  2020
                 </div>   
             </Fade>
             </div>    
