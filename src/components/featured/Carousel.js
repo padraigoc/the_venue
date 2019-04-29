@@ -1,10 +1,6 @@
 import React from 'react';
 import Slider from "react-slick";
 
-import slide_one from '../../resources/images/slide_one.jpg';
-import slide_two from '../../resources/images/slide_two.jpg';
-import slide_three from '../../resources/images/slide_three.jpg';
-
 import four from '../../resources/images/4.jpg';
 import two from '../../resources/images/2.jpg';
 import three from '../../resources/images/3.jpg';
